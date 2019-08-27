@@ -1,0 +1,120 @@
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.deps.json
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.runtimeconfig.json
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.runtimeconfig.dev.json
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.dll
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.pdb
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.Views.dll
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.Views.pdb
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.csprojAssemblyReference.cache
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.csproj.CoreCompileInputs.cache
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorAssemblyInfo.cache
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorAssemblyInfo.cs
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.AssemblyInfoInputs.cache
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.AssemblyInfo.cs
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.TagHelpers.input.cache
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.TagHelpers.output.cache
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorCoreGenerate.cache
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorTargetAssemblyInfo.cache
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorTargetAssemblyInfo.cs
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.Views.pdb
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.dll
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.pdb
+D:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.csproj.CopyComplete
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.deps.json
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.runtimeconfig.json
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.runtimeconfig.dev.json
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.dll
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.pdb
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.Views.dll
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.Views.pdb
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.csprojAssemblyReference.cache
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.csproj.CoreCompileInputs.cache
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorAssemblyInfo.cache
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorAssemblyInfo.cs
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.AssemblyInfoInputs.cache
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.AssemblyInfo.cs
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.TagHelpers.input.cache
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.TagHelpers.output.cache
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorCoreGenerate.cache
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorTargetAssemblyInfo.cache
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorTargetAssemblyInfo.cs
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.Views.pdb
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.dll
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.pdb
+C:\build_school\build_school_Kerrytj\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.csproj.CopyComplete
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.deps.json
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.runtimeconfig.json
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.runtimeconfig.dev.json
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.dll
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.pdb
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.Views.dll
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.Views.pdb
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.csprojAssemblyReference.cache
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.csproj.CoreCompileInputs.cache
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorAssemblyInfo.cache
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorAssemblyInfo.cs
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.AssemblyInfoInputs.cache
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.AssemblyInfo.cs
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.TagHelpers.input.cache
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.TagHelpers.output.cache
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorCoreGenerate.cache
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorTargetAssemblyInfo.cache
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorTargetAssemblyInfo.cs
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.Views.pdb
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.dll
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.pdb
+C:\Users\QuangHuy\Desktop\CRUDPractice\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.csproj.CopyComplete
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.deps.json
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.runtimeconfig.json
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.runtimeconfig.dev.json
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.dll
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.pdb
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.Views.dll
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\bin\Debug\netcoreapp2.2\HW1WApp.Views.pdb
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.csprojAssemblyReference.cache
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.csproj.CoreCompileInputs.cache
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorAssemblyInfo.cache
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorAssemblyInfo.cs
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.AssemblyInfoInputs.cache
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.AssemblyInfo.cs
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.TagHelpers.input.cache
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.TagHelpers.output.cache
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorCoreGenerate.cache
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorTargetAssemblyInfo.cache
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.RazorTargetAssemblyInfo.cs
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.Views.pdb
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.dll
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.pdb
+D:\Build_School\CRUDPractice-Angular and core\HW1WApp\HW1WApp\obj\Debug\netcoreapp2.2\HW1WApp.csproj.CopyComplete
